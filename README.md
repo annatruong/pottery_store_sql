@@ -54,9 +54,9 @@ sqlite3 db/pottery_store.db
 
 ## Analytical Questions
 
--- List all products where the stock quantity is below 2.
--- Calculate the total value of all products currently in stock split by category.
--- Show the total stock quantity split by category.
--- Which customer has spent the most overall?
--- What is the best-selling product category?
--- What is the total revenue generated?
+1. List all products where the stock quantity is below 2.
+2. Calculate the total value of all products currently in stock split by category.
+3. Show the total stock quantity split by category.
+4. Which customer has spent the most overall?
+5. What is the best-selling product category?
+6. What is the total revenue generated?
